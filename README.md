@@ -97,7 +97,7 @@ Your output should be in cross-tab format with the full course name in rows and 
 
 
 
-## Question 4
+## Question 5
 
 
 Write a SQL script for as above but instead of displaying the course grade by cohort year, display the FULL name of the student who achieved that grade
@@ -124,7 +124,7 @@ Your result should still appear the cross-tab format described in the previous q
     
 
 
-## Question 4
+## Question 6
 
 Write a SQL query that shows all cohorts (student start years) for all degrees and for each show how many students have obtained a top grade on at least one course
 Output should be degree name, cohort year and count of students achieving a top grade in that degree
